@@ -4,5 +4,5 @@ public with sharing class masterClass {
  //master branch 
  //child branch
  //merge 
- //abcd
+ //change 
 }
