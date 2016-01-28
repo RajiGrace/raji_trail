@@ -1,4 +1,7 @@
 public with sharing class masterClass {
  //This is a master branch 
- //change  
+ //change 
+ //master branch 
+ //child branch
+ //merge 
 }
